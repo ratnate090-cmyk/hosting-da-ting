@@ -1,0 +1,15 @@
+# Flask/Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Logs
+logs/
+*.txt
+captured_data.json
+
+# IDEs
+.vscode/
+.idea/
